@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Environmental Public Health Research Group"
+  navbar:
+    background: primary
+    search: true
+    left:
+    - href: index.qmd
+      text: Home
+    - research.qmd
+    - people.qmd
+    - publications.qmd
+    - ktt.qmd
+    - edi.qmd
+    - contact.qmd
+
+  page-footer:
+    left: "Copyright 2023, Ian Young"
+    right: 
+      - icon: mastodon
+        href: https://fediscience.org/@prof_ian_y
+      - icon: github
+        href: https://github.com/iany33/research_website.git 
+        
+  repo-url: https://github.com/iany33/pub609-lab
+    
+format:
+  html:
+    theme: flatly
+    toc: true

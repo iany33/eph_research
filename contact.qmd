@@ -1,0 +1,24 @@
+---
+title: "Contact"
+---
+
+![](images/dcc.jpg)
+
+If you are a prospective undergraduate student, graduate student, or post-doctoral fellow interested in this research group and any related opportunities, please feel free to contact Dr. Young [via email](iyoung@torontomu.ca) with a copy of your CV and some information about your background and research interests. Contact details are as follows:
+
+| School of Occupational and Public Health
+| Toronto Metropolitan University
+| 288 Church Street, DCC 320 Toronto, ON M5B 2K3
+| Tel: +1 416-979-5000 Ext. 557614
+| Email: <iyoung@torontomu.ca>
+
+Campus directions and map: <https://www.torontomu.ca/maps/>
+
+```{r echo=FALSE}
+#| column: screen-inset-shaded
+
+library(leaflet)
+leaflet() |> 
+  addTiles() |>   # Add default OpenStreetMap map tiles
+  addMarkers(lng=-79.37765, lat=43.65735, popup="DCC Building")
+```

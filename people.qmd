@@ -1,0 +1,57 @@
+---
+title: "People"
+about:
+  id: heading
+  template: solana
+  image: images/iy.jpg
+  links:
+    - icon: mastodon
+      text: Mastodon
+      href: https://fediscience.org/@prof_ian_y
+    - icon: github
+      text: Github
+      href: https://github.com/iany33/research_website.git
+---
+
+:::{#heading}
+**Dr. Ian Young** is an Associate Professor in the School of Occupational and Public Health, Toronto Metropolitan University. He is also a member of the Yeates School of Graduate Studies and supervises students in the [MSc in Occupational and Public Health](https://www.torontomu.ca/graduate/programs/occupational-public-health/) and [MASc/PhD Environmental Applied Science and Management](https://www.torontomu.ca/graduate/programs/environmental-applied-science-management/) programs. He is a wrangler of one toddler, husband, and in his spare time loves to run, exercise, cook, read sci-fi/fantasy books, play board games, and travel. 
+
+## Education
+
+* BASc in Public Health and Safety, Toronto Metropolitan University, 2007
+* PhD in Epidemiology, University of Guelph, 2010
+
+## Experience
+
+* Associate Professor, Toronto Metropolitan University, Since 2021
+* Assistant Professor, Toronto Metropolitan University, 2016 - 2020
+* Food Safety Expert, Food and Agriculture Organization of the United Nations, 2015
+* Epidemiologist, Public Health Agency of Canada (PHAC), 2013 - 2014
+* Post-Doctoral Fellow, University of Guelph & PHAC, 2011 - 2013
+:::
+
+## Current Students and Trainees
+
+### Graduate Students:
+
+* Onyinyechi Duru, PhD student, Environmental Applied Science and Management, TMU
+* Dima Balaa, MASc student, Environmental Applied Science and Management, TMU
+* Vidursana Thiraviyarajah, MASc student, Environmental Applied Science and Management, TMU
+* Michelle Payne, MSc student, Occupational and Public Health, TMU
+* Rawan Nahle, MSc student, Occupational and Public Health, TMU
+
+### Research Associates and Post-Doctoral Fellows
+
+* Dr. Johanna Sanchez, Senior Research Associate
+* Dr. Abhinand Thaivalappil, Research Associate
+* Dr. Jiin Jung, Post-Doctoral Fellow
+* Dr. Binyam Desta, Post-Doctoral Fellow
+* Dr. Crystal Ethan, Post-Doctoral Fellow
+
+### Research Assistants
+
+* Vanessa Tiberio
+* Cole Heasley
+* Emily Mullen
+
+

@@ -1,0 +1,67 @@
+---
+title: "Research"
+---
+
+Several recent and ongoing research projects and interests are described below. Please feel free to contact [Dr. Young](iyoung@torontomu.ca) if you are interested in more information about this research.
+
+## Beach Water Quality and Recreational Water Illness
+
+![](images/beach2.jpg)
+
+Swimming and other recreational water activities (e.g., kayaking, water sports) in beach water with high levels of fecal contamination can lead to recreational water illness. *E. coli* is frequently used as an indicator of fecal contamination of beach water. We are evaluating the environmental and weather-related impacts of *E. coli* in beach water across Canada through epidemiological modelling. Predictive models, using a Bayesian network framework, are being developed for selected beaches to assist public health and environmental authorities in their decisions about when to post beaches as potentially unsafe for swimming. A pilot cohort study was also conducted in Toronto in 2022 to investigate beach exposure patterns and illness outcomes. [Read more about these research activities here](https://recreationalwaterquality.weebly.com/).
+
+## Climate Change Impacts on Food Safety and Water Quality
+
+![](images/storm.jpg)
+
+Climate change is expected to increase the number, intensity, scope, and duration of extreme weather events, such as heavy precipitation and flooding, and the average summertime temperatures in Canada in the coming decades. These events increase the likelihood of future power outages and service distributions due to higher electricity demands and weather-related damage. Changing weather patterns and power outages threaten the safety of our food and water supply, increasing the risk of food-borne and water-borne illness. To examine and quantify these risks, epidemiological modelling is being conducted to evaluate the impact of extreme weather events on the incidence of acute gastrointestinal illness in Toronto. Additionally, mixed-methods research is being conducted to evaluate consumers' food and water safety preparedness toward extreme weather events and power outages.
+
+## Safe Food Handling among Consumers
+
+![](images/consumers.jpg)
+
+Food-borne illness has a significant public health burden, with an estimated 4 million cases occurring each year in Canada. Most cases of food-borne illness occur due to mishandling of food by consumers at home. Within this research theme, systematic reviews have been conducted to determine the key factors (e.g., knowledge, attitudes, social influences) that drive consumers' safe food handling practices at home. The group has also conducted primary mixed-methods research to evaluate the determinants of safe food handling practices in different population groups (e.g. young adults, seniors), and the use and influence of food safety information sources (e.g., online recipe blogs and websites) among consumers.
+
+## Food Safety in the Food Industry
+
+![](images/restaurant.jpg)
+
+Improper food handling and storage, cleaning and sanitation, and poor hygiene among food workers and handlers are frequently linked to food contamination, recalls, and outbreaks of food-borne illness. Implementation of good manufacturing practices and hazard analysis critical control point (HACCP) programs is critical to ensure food safety and prevent risks of contamination along the food chain. The research group has conducted primary research and knowledge synthesis studies to identify the key determinants of and interventions to improve the food safety behaviours and practices of food handlers in different settings. The impact of the COVID-19 pandemic on food safety inspection trends in Toronto restaurants was recently investigated. Additionally, [research is currently underway to explore how innovative behaviour change methods can be used to improve food safety outcomes in the ready-to-eat meat processing sector in Ontario](https://ontariomeatsafety.weebly.com/).
+
+## Swimming Pool Health and Safety
+
+![](images/swimmer.jpg)
+
+Swimming pools can present different hazards to bathers and staff (e.g., lifeguards), resulting in acute recreational water illness and possible chronic health risks. One of the most common causes of acute illness risks in pools is *Cryptosporidium*, transmitted through fecal contamination. Another common hazard is chloramines and other disinfection by-products, formed through a reaction of chlorine disinfectant and a build-up of organic matter in the pool water, which can lead to bather irritations. The research group has conducted studies to examine determinants of bather hygienic behaviours to prevent these risks, as well as analyses of common health and safety inspection infractions in swimming pools.
+
+## Other Research Areas
+
+This research group has been involved in numerous other projects with collaborators such as the Public Health Agency of Canada, Peel Region Public Health, Toronto Public Health, and other agencies. Some of these projects were completed by undergraduate public health and safety students as part of their final year independent research project course, or by graduate students in the group. Some examples include:
+
+-   Food safety risks and safe food handling practices at farmers' markets
+
+-   The relationship between tick exposures and alpha-gal syndrome (i.e., meat allergy)
+
+-   The microbial quality of high-risk foods prepared and sold at retail and food service settings, such as steak tartare and other raw meat dishes
+
+-   The epidemiology, etiology, and control of enteric pathogens (e.g., Hepatitis E virus, *Salmonella*)
+
+-   Food allergen management at restaurants and food service settings
+
+## Research Funding Sources
+
+Current and previous research funding has been provided by the following agencies:
+
+::: {layout-ncol="3"}
+![](images/TMU-rgb.png){width="159"}
+
+![](images/canada.png){width="234"}
+
+![](images/ontario.png){width="198"}
+
+![](images/mitacs.jpg){width="215"}
+
+![](images/toronto.png){width="155"}
+
+![](images/ecampus.png){width="240"}
+:::

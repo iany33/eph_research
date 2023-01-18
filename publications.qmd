@@ -1,0 +1,12 @@
+---
+title: "Publications"
+bibliography: myrefs.bib
+csl: vancouver-author-date.csl
+---
+
+Below is a list of publications from the research group.
+
+---
+nocite: |
+  @*
+---

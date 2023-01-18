@@ -1,0 +1,43 @@
+---
+title: "KTT"
+---
+
+## Research Infographics
+
+A series of infographics has been developed to highlight the results of several research studies in the group. Click on the images below to access and download a copy.
+
+::: {layout-ncol="2"}
+[![](images/beachwater-toronto-niagara.PNG){width="264"}](https://doi.org/10.32920/19778785.v1)
+
+[![](images/pathanalysis.PNG){width="250"}](https://doi.org/10.32920/19778932.v1)
+
+[![](images/predictivemodels.png){width="265"}](https://doi.org/10.32920/19778788.v1)
+
+[![](images/covid-foodsafety.png){width="244"}](https://doi.org/10.32920/ryerson.14636898.v1)
+
+[![](images/farmers-market.jpg){width="262"}](https://doi.org/10.32920/ryerson.14638860.v1)
+
+[![](images/qandafoodsafety.jpg){width="252"}](https://doi.org/10.32920/ryerson.14640237.v1)
+
+[![](images/foodsafety-meatplants.PNG){width="265"}](https://ontariomeatsafety.weebly.com/)
+
+[![](images/foodsafety-meatplants2.PNG){width="268"}](https://ontariomeatsafety.weebly.com/)
+
+[![](images/foodsafety-SR.jpg){width="262"}](https://doi.org/10.32920/ryerson.14636415.v1)
+:::
+
+## Selected News / Media Stories
+
+**Dec. 12, 2022**. Dr. Young appeared on Episode 2 of the [TMU Environmental Applied Science and Management Program "The Climate" podcast](https://anchor.fm/ensciman/episodes/Episode-2-The-journey-to-academia-isnt-always-linear---Dr--Ian-Young-tells-shares-his-experience-and-how-his-research-contributes-to-safe-Ontario-beaches-e1s4qoo) to talk about his background, research, and advice for future students and trainees.
+
+**July 17, 2022**. Dr. Young was quoted and interviewed in a [Triathlete Magazine article about brain-eating amoebas](https://www.triathlete.com/culture/news/how-worried-should-swimmers-really-be-about-brain-eating-amoeba/).
+
+**July 14, 2022**. Dr. Young was quoted and interviewed in a [Triathlete Magazine article about our published study on determinants of swimming pool bather hygienic behaviours](https://www.triathlete.com/training/stop-peeing-in-the-pool-you-sickos/).
+
+**June 1, 2022**. Dr. Young's Ontario Early Career Researcher Award was featured in this [Toronto Metropolitan University article](https://www.torontomu.ca/research/news-events/2022/06/toronto-metropolitan-university-faculty-secure-early-researcher-awards/).
+
+**May 31, 2022**. Dr. Young was interviewed on live TV in this [Breakfast Television segment about beach water quality](https://www.breakfasttelevision.ca/videos/these-are-torontos-safest-beaches-in-terms-of-water-quality).
+
+**Nov, 17, 2021**. Dr. Young and Dr. Sekercioglu's funded study on improving food safety in ready-to-eat meat processing plants in Ontario was [profiled by Faculty of Community Services](https://www.torontomu.ca/fcs-news-events/news/2020/05/ryerson-funding-covid19-rapid-response-round1/).
+
+**Jul. 19, 2021**: Dr. Young was quoted and interviewed for the [Climate Atlas of Canada's section on "waterborne disease and climate change"](https://climateatlas.ca/waterborne-disease-and-climate-change).
