@@ -19,9 +19,9 @@ A series of infographics has been developed to highlight the results of several 
 
 [![](images/qandafoodsafety.jpg){width="252"}](https://doi.org/10.32920/ryerson.14640237.v1)
 
-[![](images/foodsafety-meatplants.PNG){width="265"}](https://ontariomeatsafety.weebly.com/)
+[![](images/foodsafety-meatplants.PNG){width="265"}](https://doi.org/10.32920/21916350.v1)
 
-[![](images/foodsafety-meatplants2.PNG){width="268"}](https://ontariomeatsafety.weebly.com/)
+[![](images/foodsafety-meatplants2.PNG){width="268"}](https://doi.org/10.32920/21916278.v1)
 
 [![](images/foodsafety-SR.jpg){width="262"}](https://doi.org/10.32920/ryerson.14636415.v1)
 :::
