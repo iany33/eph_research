@@ -2,8 +2,38 @@
 title: ""
 ---
 
-![](images/dotsplot.png)
+```{r}
+#| echo: false
+#| message: false
 
+library(tidyverse)
+library(tidybayes)
+library(gganimate)
+
+N <- 5000
+data <- tibble(sample = 1:N,
+               x = rnorm(N, mean = 0, sd = 1),
+               x2 = rnorm(N, mean = 0, sd = 1),
+               x3 = rnorm(N, mean = 0, sd = 1),
+               x4 = rnorm(N, mean = 0, sd = 1),
+               x5 = rnorm(N, mean = 0, sd = 1),
+               x6 = rnorm(N, mean = 0, sd = 1),
+               x7 = rnorm(N, mean = 0, sd = 1),
+               x8 = rnorm(N, mean = 0, sd = 1),
+               x9 = rnorm(N, mean = 0, sd = 1),
+               x10 = rnorm(N, mean = 0, sd = 1))
+data <- data |> pivot_longer(cols = starts_with("x"), names_to = "draw", values_to = "value")
+
+p <- data |> group_by(sample) |> ggplot(aes(x = value)) +
+  stat_dotsinterval(quantiles = 500, fill = "lightblue") + 
+  theme_gray() + 
+  theme(axis.text.x = element_blank(), axis.ticks.x = element_blank(), 
+        axis.text.y = element_blank(), axis.ticks.y = element_blank(), 
+        axis.title.x=element_blank(), axis.title.y=element_blank()) +
+  transition_states(draw, 0, 1)
+
+animate(p, nframes = 10, fps = 1.5, renderer = gifski_renderer())
+```
 This research group, led by **Dr. Ian Young** of the School of Occupational and Public Health at Toronto Metropolitan University, is focused on **reducing the environmental public health burden of food-borne, water-borne and zoonotic diseases**. To address this aim, a variety of research methods are used, including epidemiology, applied statistical modelling, mixed-methods (quantitative and qualitative approaches), and knowledge synthesis (e.g. systematic reviews, meta-analysis). The main objectives of the research group include:
 
 -   Identifying and synthesizing key research needs and gaps

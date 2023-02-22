@@ -8,7 +8,7 @@ Several recent and ongoing research projects and interests are described below. 
 
 ![](images/beach2.jpg)
 
-Swimming and other recreational water activities (e.g., kayaking, water sports) in beach water with high levels of fecal contamination can lead to recreational water illness. *E. coli* is frequently used as an indicator of fecal contamination of beach water. We are evaluating the environmental and weather-related impacts of *E. coli* in beach water across Canada through epidemiological modelling. Predictive models, using a Bayesian network framework, are being developed for selected beaches to assist public health and environmental authorities in their decisions about when to post beaches as potentially unsafe for swimming. A pilot cohort study was also conducted in Toronto in 2022 to investigate beach exposure patterns and illness outcomes. [Read more about these research activities here](https://recreationalwaterquality.weebly.com/).
+Swimming and other recreational water activities (e.g., kayaking, water sports) in beach water with high levels of fecal contamination can lead to recreational water illness. *E. coli* is frequently used as an indicator of fecal contamination of beach water. We are evaluating the environmental and weather-related impacts of *E. coli* in beach water across Canada through epidemiological modelling. Predictive models, using a Bayesian network framework, are being developed for selected beaches to assist public health and environmental authorities in their decisions about when to post beaches as potentially unsafe for swimming. Beach cohort studies are being conducted in Canada to evaluate water and sand exposures and the risk of recreational water illness among beachgoers. Additionally, focus groups are being conducted to evaluate beachgoer risk perceptions and behaviours toward beach water quality. [Read more about these research activities here](https://recreationalwaterquality.weebly.com/).
 
 ## Climate Change Impacts on Food Safety and Water Quality
 
@@ -53,7 +53,7 @@ This research group has been involved in numerous other projects with collaborat
 Current and previous research funding has been provided by the following agencies:
 
 ::: {layout-ncol="3"}
-![](images/TMU-rgb.png){width="159"}
+![](images/cihr.jpg){width="161"}
 
 ![](images/canada.png){width="234"}
 
@@ -64,4 +64,6 @@ Current and previous research funding has been provided by the following agencie
 ![](images/toronto.png){width="155"}
 
 ![](images/ecampus.png){width="240"}
+
+![](images/TMU-rgb.png){width="159"}
 :::
