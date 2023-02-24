@@ -10,6 +10,7 @@ library(tidyverse)
 library(tidybayes)
 library(gganimate)
 
+set.seed(11)
 N <- 5000
 data <- tibble(sample = 1:N,
                x = rnorm(N, mean = 0, sd = 1),

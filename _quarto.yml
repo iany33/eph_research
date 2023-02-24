@@ -16,6 +16,7 @@ website:
     - ktt.qmd
     - edi.qmd
     - contact.qmd
+  google-analytics: "G-55DQD32B4D"
 
   page-footer:
     left: "Copyright 2023, Ian Young"
