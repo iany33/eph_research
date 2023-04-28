@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Environmental Public Health (EPH) Research Group"
 ---
 
 ```{r}
@@ -35,6 +35,7 @@ p <- data |> group_by(sample) |> ggplot(aes(x = value)) +
 
 animate(p, nframes = 10, fps = 1.5, renderer = gifski_renderer())
 ```
+
 This research group, led by **Dr. Ian Young** of the School of Occupational and Public Health at Toronto Metropolitan University, is focused on **reducing the environmental public health burden of food-borne, water-borne and zoonotic diseases**. To address this aim, a variety of research methods are used, including epidemiology, applied statistical modelling, mixed-methods (quantitative and qualitative approaches), and knowledge synthesis (e.g. systematic reviews, meta-analysis). The main objectives of the research group include:
 
 -   Identifying and synthesizing key research needs and gaps
@@ -45,4 +46,8 @@ This research group, led by **Dr. Ian Young** of the School of Occupational and 
 
 -   Evaluating the epidemiology of and control measures to prevent food-borne, water-borne, and zoonotic diseases
 
-![](images/TMU-rgb.png){fig-align="center" width="225"}
+::: {layout-nrow="2"}
+![](logo.png){fig-align="center" width="290"}
+
+![](images/TMU-rgb.png){fig-align="center" width="260"}
+:::

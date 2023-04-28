@@ -3,8 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Environmental Public Health Research Group"
+  title: "EHP Research Group"
+  favicon: "logo.png"
   navbar:
+    logo: "logo.png"
     background: primary
     search: true
     left:
@@ -27,7 +29,7 @@ website:
         href: https://github.com/iany33/ 
         
   repo-url: https://github.com/iany33/pub609-lab
-    
+  
 format:
   html:
     theme: flatly
