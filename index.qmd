@@ -47,7 +47,7 @@ This research group, led by **Dr. Ian Young** of the School of Occupational and 
 -   Evaluating the epidemiology of and control measures to prevent food-borne, water-borne, and zoonotic diseases
 
 ::: {layout-nrow="2"}
-![](logo.png){fig-align="center" width="290"}
+![](logo.png){fig-align="center" width="200"}
 
-![](images/TMU-rgb.png){fig-align="center" width="260"}
+![](images/TMU-rgb.png){fig-align="center" width="250"}
 :::

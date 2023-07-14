@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "EHP Research Group"
+  title: "EPH Research Group"
   favicon: "logo.png"
   navbar:
     logo: "logo.png"

@@ -14,7 +14,7 @@ font_add("Century", "CENTURY.TTF")
 
 sticker(
   subplot = earth_img,
-  package = "EHP Research Group",
+  package = "EPH Research Group",
   p_color = "#21918c",
   s_width = 1.1,
   s_height = 1.1,
