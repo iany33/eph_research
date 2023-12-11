@@ -10,6 +10,12 @@ Several recent and ongoing research projects and interests are described below. 
 
 Swimming and other recreational water activities (e.g., kayaking, water sports) in beach water with high levels of fecal contamination can lead to recreational water illness. *E. coli* is frequently used as an indicator of fecal contamination of beach water. We are evaluating the environmental and weather-related impacts of *E. coli* in beach water across Canada through epidemiological modelling. Predictive models, using a Bayesian network framework, are being developed for selected beaches to assist public health and environmental authorities in their decisions about when to post beaches as potentially unsafe for swimming. Beach cohort studies are being conducted in Canada to evaluate water and sand exposures and the risk of recreational water illness among beachgoers. Additionally, focus groups are being conducted to evaluate beachgoer risk perceptions and behaviours toward beach water quality. [Read more about these research activities here](https://recreationalwaterquality.weebly.com/).
 
+## Beach Water Quality and Harmful Algal Blooms
+
+![](images/algae.jpg){fig-alt="Photo Credit: MPCA Photos"}
+
+Recreational water contact at beaches that are affected by blue-green algae blooms (i.e., cyanobacterial blooms) can also lead to an increased risk of recreational water illness. Many species of blue-green algae can produce toxins, called cyanotoxins, that can cause a wide variety of illnesses and symptoms in people, pets, and wildlife. Blue-green algal blooms are becoming increasingly common in freshwater bodies in Canada, but little is known about the burden of illness from recreational water exposures to the cyanobacteria and their toxins. A multi-year study is currently being conducted at targeted beaches in Ontario and Manitoba to evaluate the risk of illness from water exposures in people and their pet dogs. Additionally, focus groups are being conducted to evaluate the knowledge, awareness, and behaviours of families and dog owners toward blue-green algae in beach water.
+
 ## Climate Change Impacts on Food Safety and Water Quality
 
 ![](images/storm.jpg)
@@ -26,7 +32,7 @@ Food-borne illness has a significant public health burden, with an estimated 4 m
 
 ![](images/restaurant.jpg)
 
-Improper food handling and storage, cleaning and sanitation, and poor hygiene among food workers and handlers are frequently linked to food contamination, recalls, and outbreaks of food-borne illness. Implementation of good manufacturing practices and hazard analysis critical control point (HACCP) programs is critical to ensure food safety and prevent risks of contamination along the food chain. The research group has conducted primary research and knowledge synthesis studies to identify the key determinants of and interventions to improve the food safety behaviours and practices of food handlers in different settings. The impact of the COVID-19 pandemic on food safety inspection trends in Toronto restaurants was recently investigated. Additionally, [research is currently underway to explore how innovative behaviour change methods can be used to improve food safety outcomes in the ready-to-eat meat processing sector in Ontario](https://ontariomeatsafety.weebly.com/).
+Improper food handling and storage, cleaning and sanitation, and poor hygiene among food workers and handlers are frequently linked to food contamination, recalls, and outbreaks of food-borne illness. Implementation of good manufacturing practices and hazard analysis critical control point (HACCP) programs is critical to ensure food safety and prevent risks of contamination along the food chain. The research group has conducted primary research and knowledge synthesis studies to identify the key determinants of and interventions to improve the food safety behaviours and practices of food handlers in different settings. The impact of the COVID-19 pandemic on food safety inspection trends in Toronto restaurants was recently investigated. Additionally, [research was recently conducted to explore how innovative behaviour change methods can be used to improve food safety outcomes in the ready-to-eat meat processing sector in Ontario](https://ontariomeatsafety.weebly.com/).
 
 ## Swimming Pool Health and Safety
 
