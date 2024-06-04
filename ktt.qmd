@@ -7,6 +7,16 @@ title: "KTT"
 A series of infographics has been developed to highlight the results of several research studies in the group. Click on the images below to access and download a copy.
 
 ::: {layout-ncol="2"}
+[![](images/beach_predictors_overall.PNG){width="220"}](https://doi.org/10.32920/25893613.v1)
+
+[![](images/beach_predictors_niagara.PNG){width="260"}](https://doi.org/10.32920/25893574.v1)
+
+[![](images/beach_predictors_manitoba.PNG){width="260"}](https://doi.org/10.32920/25893595.v1)
+
+[![](images/beach_predictors_toronto.PNG){width="260"}](https://doi.org/10.32920/25893493.v1)
+
+[![](images/beach_predictors_vancouver.PNG){width="260"}](https://doi.org/10.32920/25893601.v1)
+
 [![](images/beachwater-toronto-niagara.PNG){width="264"}](https://doi.org/10.32920/19778785.v1)
 
 [![](images/pathanalysis.PNG){width="250"}](https://doi.org/10.32920/19778932.v1)
@@ -33,6 +43,8 @@ Our team developed a *digital storytelling* video to highlight our research on f
 {{< video https://www.youtube.com/watch?v=jYWUa6TZiHs >}}
 
 ## Selected News / Media Stories
+
+**Jan. 18, 2024**. Dr. Young was quoted and interviewed in [Canadian Press article about food safety and 'best before' dates](https://www.cp24.com/lifestyle/experts-weigh-in-on-food-safety-after-best-before-date-passes-1.6733054).
 
 **Oct. 27, 2023**. Dr. Young was quoted and interviewed in [a Globe and Mail article about climate change impacts on water-borne disease](https://www.theglobeandmail.com/canada/article-marathon-races-climate-change/).
 
