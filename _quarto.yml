@@ -22,8 +22,8 @@ website:
   page-footer:
     left: "Copyright 2023, Ian Young"
     right: 
-      - icon: mastodon
-        href: https://fediscience.org/@prof_ian_y
+      - icon: bluesky
+        href: https://bsky.app/profile/envhealthprof.bsky.social
       - icon: github
         href: https://github.com/iany33/ 
         

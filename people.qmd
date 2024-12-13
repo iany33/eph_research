@@ -5,16 +5,16 @@ about:
   template: solana
   image: images/iy.jpg
   links:
-    - icon: mastodon
-      text: Mastodon
-      href: https://fediscience.org/@prof_ian_y
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/envhealthprof.bsky.social
     - icon: github
       text: Github
       href: https://github.com/iany33/
 ---
 
 :::{#heading}
-**Dr. Ian Young** is an Associate Professor in the School of Occupational and Public Health, Toronto Metropolitan University. He is also a member of the Yeates School of Graduate Studies and supervises students in the [MSc in Occupational and Public Health](https://www.torontomu.ca/graduate/programs/occupational-public-health/) and [MASc/PhD Environmental Applied Science and Management](https://www.torontomu.ca/graduate/programs/environmental-applied-science-management/) programs. He is a wrangler of one toddler, husband, and in his spare time loves to run, exercise, cook, read sci-fi/fantasy books, play board games, and travel. 
+**Dr. Ian Young** is an Associate Professor in the School of Occupational and Public Health, Toronto Metropolitan University. He is also a member of the Yeates School of Graduate and Postdoctoral Studies and supervises students in the [MSc in Occupational and Public Health](https://www.torontomu.ca/graduate/programs/occupational-public-health/) and [MASc/PhD Environmental Applied Science and Management](https://www.torontomu.ca/graduate/programs/environmental-applied-science-management/) programs. He is a wrangler of an infant and toddler, husband, and in his spare time loves to run, exercise, cook, read sci-fi/fantasy books, play board games, and travel. 
 
 ## Education
 
@@ -34,20 +34,19 @@ about:
 
 ### Graduate Students:
 
-* Onyinyechi Duru, PhD student, Environmental Applied Science and Management, TMU
 * Dima Balaa, PhD student, Environmental Applied Science and Management, TMU
-* Vidursana Thiraviyarajah, MASc student, Environmental Applied Science and Management, TMU
 * Michelle Payne, MSc student, Occupational and Public Health, TMU
 * Rawan Nahle, MSc student, Occupational and Public Health, TMU
 * Anthony Gilding, MSc student, Occupational and Public Health, TMU
 * Kais Azad, MSc student, Occupational and Public Health, TMU
+* Tiffany Cao, MSc student, Occupational and Public Health, TMU
+* Maiza Sy, MSc student, Occupational and Public Health, TMU
 
 ### Research Associates and Post-Doctoral Fellows
 
-* Dr. Johanna Sanchez, Senior Research Associate
-* Dr. Abhinand Thaivalappil, Research Associate
-* Rachel Jardine, Research Associate
 * Dr. Binyam Desta, Post-Doctoral Fellow
-* Dr. Crystal Ethan, Post-Doctoral Fellow
+* Rachel Jardine, Research Associate
+* Dr. Abhinand Thaivalappil, Research Associate
+
 
 
