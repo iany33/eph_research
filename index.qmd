@@ -2,6 +2,19 @@
 title: "Environmental Public Health (EPH) Research Group"
 ---
 
+This research group, led by **Dr. Ian Young** of the School of Occupational and Public Health at Toronto Metropolitan University, is focused on **reducing the environmental public health burden of food-borne, water-borne and zoonotic diseases**. To address this aim, a variety of research methods are used, including epidemiology, applied statistical modelling, mixed-methods (quantitative and qualitative approaches), and knowledge synthesis (e.g. systematic reviews, meta-analysis). The main objectives of the research group include:
+
+-   Identifying and synthesizing key research needs and gaps
+
+-   Understanding the prevalence and use of health protection behaviours of different population and stakeholder groups, including key drivers and determinants of behaviour change
+
+-   Identifying and evaluating key strategies and interventions to modify or change the behaviours of individuals and organizations
+
+-   Evaluating the epidemiology of and control measures to prevent food-borne, water-borne, and zoonotic diseases
+
+::: {layout-nrow="2"}
+![](logo.png){fig-align="center" width="200"}
+
 ```{r}
 #| echo: false
 #| message: false
@@ -35,19 +48,6 @@ p <- data |> group_by(sample) |> ggplot(aes(x = value)) +
 
 animate(p, nframes = 10, fps = 1.5, renderer = gifski_renderer())
 ```
-
-This research group, led by **Dr. Ian Young** of the School of Occupational and Public Health at Toronto Metropolitan University, is focused on **reducing the environmental public health burden of food-borne, water-borne and zoonotic diseases**. To address this aim, a variety of research methods are used, including epidemiology, applied statistical modelling, mixed-methods (quantitative and qualitative approaches), and knowledge synthesis (e.g. systematic reviews, meta-analysis). The main objectives of the research group include:
-
--   Identifying and synthesizing key research needs and gaps
-
--   Understanding the prevalence and use of health protection behaviours of different population and stakeholder groups, including key drivers and determinants of behaviour change
-
--   Identifying and evaluating key strategies and interventions to modify or change the behaviours of individuals and organizations
-
--   Evaluating the epidemiology of and control measures to prevent food-borne, water-borne, and zoonotic diseases
-
-::: {layout-nrow="2"}
-![](logo.png){fig-align="center" width="200"}
 
 ![](images/TMU-rgb.png){fig-align="center" width="250"}
 :::
