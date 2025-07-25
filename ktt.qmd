@@ -7,6 +7,8 @@ title: "KTT"
 A series of infographics has been developed to highlight the results of several research studies in the group. Click on the images below to access and download a copy.
 
 ::: {layout-ncol="2"}
+[![](images/cyanobacteria_focusgroups.PNG){width="220"}](https://doi.org/10.32920/29602205.v1)
+
 [![](images/beach_predictors_overall.PNG){width="220"}](https://doi.org/10.32920/25893613.v1)
 
 [![](images/beach_predictors_niagara.PNG){width="260"}](https://doi.org/10.32920/25893574.v1)
@@ -43,6 +45,8 @@ Our team developed a *digital storytelling* video to highlight our research on f
 {{< video https://www.youtube.com/watch?v=jYWUa6TZiHs >}}
 
 ## Selected News / Articles Featuring our Research
+
+**July 1, 2025**. Dr. Young was interviewed and quoted in a [BBC article about hygiene in public swimming pools](https://www.bbc.com/future/article/20250630-how-hygienic-are-public-swimming-pools-really).
 
 **October 31, 2024**. Choose TMU [promotional video about the Public Health program and recreational water course](https://www.youtube.com/shorts/4Vm6OrSb5rA) taught by Dr. Young.
 
