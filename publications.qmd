@@ -4,7 +4,7 @@ bibliography: myrefs.bib
 csl: vancouver-author-date.csl
 ---
 
-Below is a list of publications from the research group.
+Below is a list of publications from the research group. For the most up-to-date list, please visit my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=gBG-s8UAAAAJ&view_op=list_works&authuser=1&sortby=pubdate).
 
 ---
 nocite: |
