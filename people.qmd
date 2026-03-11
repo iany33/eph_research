@@ -14,7 +14,7 @@ about:
 ---
 
 :::{#heading}
-**Dr. Ian Young** is an Associate Professor in the School of Occupational and Public Health, Toronto Metropolitan University. He is also a member of the Yeates School of Graduate and Postdoctoral Studies and supervises students in the [MSc in Occupational and Public Health](https://www.torontomu.ca/graduate/programs/occupational-public-health/) and [MASc/PhD Environmental Applied Science and Management](https://www.torontomu.ca/graduate/programs/environmental-applied-science-management/) programs. He is a wrangler of an infant and toddler, husband, and in his spare time loves to run, exercise, cook, read sci-fi/fantasy books, play board games, and travel. 
+**Dr. Ian Young** is an Associate Professor in the School of Occupational and Public Health, Toronto Metropolitan University. He is also the Graduate Program Director for and supervises students in the [MSc in Occupational and Public Health Program](https://www.torontomu.ca/graduate/programs/occupational-public-health/) at TMU. He also supervises students in the [MASc/PhD Environmental Applied Science and Management Program](https://www.torontomu.ca/graduate/programs/environmental-applied-science-management/). He is a wrangler of an infant and toddler, husband, and in his spare time loves to run, exercise, cook, read sci-fi/fantasy books, play board games, and travel. 
 
 ## Education
 
@@ -32,21 +32,13 @@ about:
 
 ## Current Students and Trainees
 
-### Graduate Students:
-
 * Dima Balaa, PhD student, Environmental Applied Science and Management, TMU
-* Michelle Payne, MSc student, Occupational and Public Health, TMU
-* Rawan Nahle, MSc student, Occupational and Public Health, TMU
-* Anthony Gilding, MSc student, Occupational and Public Health, TMU
-* Kais Azad, MSc student, Occupational and Public Health, TMU
+* Gaurav Phatak, MSc student, Occupational and Public Health, TMU
+* Laura Bannon, MSc student, Occupational and Public Health, TMU
 * Tiffany Cao, MSc student, Occupational and Public Health, TMU
 * Maiza Sy, MSc student, Occupational and Public Health, TMU
+* Rachel Jardine, Research Associate, Occupational and Public Health, TMU
 
-### Research Associates and Post-Doctoral Fellows
-
-* Dr. Binyam Desta, Post-Doctoral Fellow
-* Rachel Jardine, Research Associate
-* Dr. Abhinand Thaivalappil, Research Associate
 
 
 

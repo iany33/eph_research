@@ -7,6 +7,8 @@ title: "KTT"
 A series of infographics has been developed to highlight the results of several research studies in the group. Click on the images below to access and download a copy.
 
 ::: {layout-ncol="2"}
+[![](images/beach_focusgroups.JPG){width="220"}](https://doi.org/10.32920/31301695)
+
 [![](images/cyanobacteria_focusgroups.PNG){width="220"}](https://doi.org/10.32920/29602205.v1)
 
 [![](images/beach_predictors_overall.PNG){width="220"}](https://doi.org/10.32920/25893613.v1)
@@ -45,6 +47,10 @@ Our team developed a *digital storytelling* video to highlight our research on f
 {{< video https://www.youtube.com/watch?v=jYWUa6TZiHs >}}
 
 ## Selected News / Articles Featuring our Research
+
+**October 29, 2025**. Graduate student Tiffany Cao was featured in a TMU article [about presenting her research to the Health Professionals Advisory Board of the International Joint Commission ](https://www.torontomu.ca/fcs-news-events/news/2025/10/health-professionals-advisory-board-s-29th-meeting-held-at-tmu/).
+
+**September 11, 2025**. Graduate student Maiza Sy was featured in a TMU story [about her participation in the Canadian One Health Training Program on Emerging Zoonoses](https://www.torontomu.ca/fcs-news-events/news/2025/09/maiza-sy-onehealth-experiential-learning/).
 
 **July 1, 2025**. Dr. Young was interviewed and quoted in a [BBC article about hygiene in public swimming pools](https://www.bbc.com/future/article/20250630-how-hygienic-are-public-swimming-pools-really).
 
